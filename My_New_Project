@@ -7,3 +7,9 @@ print(z)
 #THIS IS SUM OF SUBTRACTION
 W=X-Y
 print(W)
+
+# THIS IS SUM OF MULTIPLICATION
+V=X*Y
+print(V)
+
+
