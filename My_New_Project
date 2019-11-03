@@ -16,3 +16,7 @@ print(V)
 D=X/Y
 print(D)
 
+#This is Hello World
+a="Hello World"
+print(a)
+
