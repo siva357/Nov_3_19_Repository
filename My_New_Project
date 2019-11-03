@@ -1,0 +1,9 @@
+#THIS IS SUM OF ADD FUNCTION
+X=10
+Y=20
+Z=X+Y
+print(z)
+
+#THIS IS SUM OF SUBTRACTION
+W=X-Y
+print(W)
