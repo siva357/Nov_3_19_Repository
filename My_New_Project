@@ -12,4 +12,7 @@ print(W)
 V=X*Y
 print(V)
 
+# THIS IS SUM OF DIVISION 
+D=X/Y
+print(D)
 
